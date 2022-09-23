@@ -1,0 +1,47 @@
+{
+  "# of colors": [
+    { "name": "2", "count": 36 },
+    { "name": "3", "count": 93 },
+    { "name": "4", "count": 88 },
+    { "name": "5", "count": 204 }
+  ],
+  "Beat": [
+    { "name": "Beat1", "count": 52 },
+    { "name": "Beat2", "count": 49 },
+    { "name": "Beat3", "count": 52 },
+    { "name": "Beat4", "count": 55 },
+    { "name": "Beat5", "count": 51 },
+    { "name": "Beat6", "count": 62 },
+    { "name": "Beat7", "count": 47 },
+    { "name": "Beat8", "count": 53 }
+  ],
+  "Grid size": [
+    { "name": "10x10", "count": 95 },
+    { "name": "15x15", "count": 110 },
+    { "name": "20x20", "count": 88 },
+    { "name": "5x5", "count": 128 }
+  ],
+  "Palette": [
+    { "name": "Amazonite", "count": 31 },
+    { "name": "Ammolite", "count": 40 },
+    { "name": "Blue Amber", "count": 22 },
+    { "name": "CMYK", "count": 11 },
+    { "name": "CMYK night", "count": 47 },
+    { "name": "Diamond", "count": 22 },
+    { "name": "Emerald", "count": 28 },
+    { "name": "Fluorite", "count": 24 },
+    { "name": "Labradorite", "count": 39 },
+    { "name": "Obsidian", "count": 22 },
+    { "name": "Ocean Jasper", "count": 33 },
+    { "name": "Ruby", "count": 27 },
+    { "name": "Sunset sodalite", "count": 32 },
+    { "name": "Turquoise", "count": 43 }
+  ],
+  "Shape": [
+    { "name": "Angled", "count": 30 },
+    { "name": "Angled-up", "count": 78 },
+    { "name": "Fifty-Fifty", "count": 209 },
+    { "name": "Wave", "count": 35 },
+    { "name": "Wavy-up", "count": 69 }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "Background": [
+    { "name": "Beige", "count": 47 },
+    { "name": "Black", "count": 16 },
+    { "name": "Blue", "count": 11 },
+    { "name": "Green", "count": 2 },
+    { "name": "Red", "count": 54 },
+    { "name": "White", "count": 802 },
+    { "name": "Yellow", "count": 68 }
+  ],
+  "Body": [
+    { "name": "Black", "count": 402 },
+    { "name": "Blue", "count": 6 },
+    { "name": "Red", "count": 18 },
+    { "name": "White", "count": 520 },
+    { "name": "Yellow", "count": 54 }
+  ],
+  "Extra color": [
+    { "name": "Blue", "count": 28 },
+    { "name": "Green", "count": 4 },
+    { "name": "N/A", "count": 845 },
+    { "name": "Red", "count": 123 }
+  ],
+  "Peg count": [
+    { "name": "10", "count": 33 },
+    { "name": "11", "count": 25 },
+    { "name": "12", "count": 32 },
+    { "name": "13", "count": 26 },
+    { "name": "14", "count": 52 },
+    { "name": "15", "count": 29 },
+    { "name": "16", "count": 137 },
+    { "name": "17", "count": 26 },
+    { "name": "18", "count": 24 },
+    { "name": "19", "count": 14 },
+    { "name": "20", "count": 9 },
+    { "name": "21", "count": 1 },
+    { "name": "22", "count": 17 },
+    { "name": "23", "count": 21 },
+    { "name": "24", "count": 2 },
+    { "name": "25", "count": 116 },
+    { "name": "26", "count": 4 },
+    { "name": "27", "count": 2 },
+    { "name": "28", "count": 6 },
+    { "name": "29", "count": 5 },
+    { "name": "3", "count": 4 },
+    { "name": "30", "count": 1 },
+    { "name": "31", "count": 3 },
+    { "name": "33", "count": 2 },
+    { "name": "34", "count": 2 },
+    { "name": "36", "count": 4 },
+    { "name": "37", "count": 2 },
+    { "name": "39", "count": 4 },
+    { "name": "4", "count": 36 },
+    { "name": "41", "count": 2 },
+    { "name": "42", "count": 2 },
+    { "name": "44", "count": 1 },
+    { "name": "45", "count": 1 },
+    { "name": "5", "count": 64 },
+    { "name": "55", "count": 1 },
+    { "name": "6", "count": 56 },
+    { "name": "7", "count": 33 },
+    { "name": "8", "count": 55 },
+    { "name": "9", "count": 146 }
+  ],
+  "Peg layout": [
+    { "name": "3x3 grid", "count": 245 },
+    { "name": "4x4 grid", "count": 217 },
+    { "name": "5x5 grid", "count": 236 },
+    { "name": "6x6 grid", "count": 3 },
+    { "name": "Recursive grid", "count": 135 },
+    { "name": "Tiled 2,3", "count": 23 },
+    { "name": "Tiled 3,2", "count": 33 },
+    { "name": "Tiled 3,4", "count": 29 },
+    { "name": "Tiled 4,3", "count": 23 },
+    { "name": "Tiled 4,5", "count": 24 },
+    { "name": "Tiled 5,4", "count": 30 },
+    { "name": "Tiled 5,6", "count": 2 }
+  ],
+  "Peg scaling": [
+    { "name": "Bigger near center", "count": 124 },
+    { "name": "Smaller near center", "count": 104 },
+    { "name": "Uniform", "count": 772 }
+  ],
+  "Peg style": [
+    { "name": "Bullseye", "count": 75 },
+    { "name": "Solid", "count": 925 }
+  ],
+  "Size": [
+    { "name": "Normal", "count": 964 },
+    { "name": "smol boi", "count": 36 }
+  ],
+  "Wrap orientation": [
+    { "name": "Balanced", "count": 788 },
+    { "name": "Off-center", "count": 212 }
+  ],
+  "Wrap style": [
+    { "name": "Loop", "count": 505 },
+    { "name": "Weave", "count": 495 }
+  ]
+}

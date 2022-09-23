@@ -1,0 +1,42 @@
+{
+  "name": "nft-tools-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "NODE_OPTIONS=--max_old_space_size=8192 && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "script": "ts-node --script-mode --transpile-only"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.16",
+    "@chakra-ui/react": "^1.8.8",
+    "@chakra-ui/system": "^1.12.1",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@usedapp/core": "^1.0.0",
+    "@walletconnect/web3-provider": "^1.7.1",
+    "dotenv": "^16.0.0",
+    "framer-motion": "^4",
+    "lodash": "^4.17.21",
+    "mongoose": "6.1.10",
+    "moralis": "1.6.0",
+    "next": "^12.1.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-singleton-hook": "^3.3.0",
+    "web3modal": "^1.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@types/node-fetch": "^2.5.12",
+    "@types/react": "^18.0.8",
+    "eslint": "^8.6.0",
+    "eslint-config-next": "^12.0.7",
+    "node-fetch": "^2.6.7",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Coloring strategy": [
+    { "name": "Group", "count": 272 },
+    { "name": "Main", "count": 146 },
+    { "name": "Random", "count": 115 },
+    { "name": "Single", "count": 67 }
+  ],
+  "Framed": [
+    { "name": "Nope!", "count": 25 },
+    { "name": "Yep", "count": 575 }
+  ],
+  "Layout": [
+    { "name": "Balance", "count": 325 },
+    { "name": "Chaos", "count": 96 },
+    { "name": "Order", "count": 179 }
+  ],
+  "Palette": [
+    { "name": "Alpha Dog", "count": 5 },
+    { "name": "Arcade", "count": 11 },
+    { "name": "Atlas", "count": 34 },
+    { "name": "Bangalore", "count": 8 },
+    { "name": "Blue Spider", "count": 22 },
+    { "name": "Cherfi", "count": 9 },
+    { "name": "Cold Duo", "count": 10 },
+    { "name": "Delphi", "count": 9 },
+    { "name": "Docks", "count": 16 },
+    { "name": "Ducci", "count": 1 },
+    { "name": "Giftcard", "count": 23 },
+    { "name": "Golden Duo", "count": 6 },
+    { "name": "Green Spider", "count": 22 },
+    { "name": "Honeypot", "count": 10 },
+    { "name": "Hotshot", "count": 32 },
+    { "name": "Hotspot", "count": 36 },
+    { "name": "Hurdles", "count": 5 },
+    { "name": "Jolly", "count": 6 },
+    { "name": "Main Course", "count": 17 },
+    { "name": "Mantis", "count": 14 },
+    { "name": "Miradors", "count": 2 },
+    { "name": "Mono", "count": 1 },
+    { "name": "Mural", "count": 15 },
+    { "name": "Mysore", "count": 29 },
+    { "name": "Nightlife", "count": 14 },
+    { "name": "Nowak", "count": 13 },
+    { "name": "Paddle", "count": 12 },
+    { "name": "Pink Spider", "count": 18 },
+    { "name": "Punk", "count": 14 },
+    { "name": "Red Spider", "count": 30 },
+    { "name": "Revolucion", "count": 22 },
+    { "name": "Romeo", "count": 9 },
+    { "name": "Rosewood", "count": 7 },
+    { "name": "Shelter", "count": 5 },
+    { "name": "Slapdash", "count": 14 },
+    { "name": "Spider King", "count": 1 },
+    { "name": "Sprague", "count": 15 },
+    { "name": "Tropico", "count": 14 },
+    { "name": "Truce", "count": 4 },
+    { "name": "Verena", "count": 25 },
+    { "name": "Warm Duo", "count": 13 },
+    { "name": "Yellow Spider", "count": 27 }
+  ],
+  "Scene": [
+    { "name": "Corner", "count": 27 },
+    { "name": "Cube", "count": 10 },
+    { "name": "Flat", "count": 563 }
+  ],
+  "Shading": [
+    { "name": "Bright", "count": 33 },
+    { "name": "Bright Evening", "count": 60 },
+    { "name": "Bright Morning", "count": 58 },
+    { "name": "Evening", "count": 67 },
+    { "name": "Morning", "count": 56 },
+    { "name": "Noon", "count": 326 }
+  ]
+}
